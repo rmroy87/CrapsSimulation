@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 
 /**
- * My first edit - RMROY87
- * 
+ * My first edit - RMROY87 
+ *  
  * Starting application for running multiple simulations of CrapsGame. This
  * gathers statistics (how many games were a win, and how many were a loss), and
  * prints out the results.
